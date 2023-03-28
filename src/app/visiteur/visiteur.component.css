@@ -1,0 +1,19 @@
+nav a
+{
+ text-decoration: none;
+ display:inline-block;
+ margin : 0px;
+ padding:5px;
+ border-right: solid 2px navy;
+}
+nav
+{
+ background-color: #f8f8f8;
+}x
+a:active
+{
+ color:black;
+}
+.active {
+    background-color : #dfdfdf;
+} 
